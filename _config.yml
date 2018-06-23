@@ -1,6 +1,6 @@
 title: My Blog
 author: Jerry Tan
-email: your-email@domain.com
+email: jerry88tan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Greetings! My name is Jerry Tan and I am a third year computer science student from the University of California, Riverside. 
   I will be interning at the Naval Surface Warfare Center Corona Divsion this summer!
@@ -11,4 +11,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-hacker
