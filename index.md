@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Jerry Tan
 
-I'm glad you are here. I plan to talk about ...
+Greetings! My name is Jerry Tan and I am a third year computer science student from the University of California, Riverside. I will be interning at the Naval Surface Warfare Center Corona Divsion this summer!
